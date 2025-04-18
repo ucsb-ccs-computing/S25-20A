@@ -11,7 +11,7 @@ ready: false
 * **Piazza**: [https://piazza.com/ucsb/spring2025/cmptgcs20a](https://piazza.com/ucsb/spring2025/cmptgcs20a)
                                          
 * Office Hours:
-   * Richert Wang: By appointment
+   * Richert Wang: By Appointment
 
 For course website links, visit <https://ucsb-ccs-computing.github.io/S25-20A>.
 
